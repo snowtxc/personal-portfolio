@@ -62,7 +62,7 @@ let info = {
       date: "Aug, 2022 - Present",
       position: "Dev Jr",
       description:
-        "Developing Front-end website architecture.Designing user interactions on web pages.Ensuring responsiveness of applications.Working alongside graphic designers for web design features.Seeing through a project from conception to finished product.Staying abreast of developments in web applications and programming languages. Degree: Program Help Cod COR 351201.Strong organizational and project management skills.Proficiency with fundamental Front-end languages such as HTML, CSS, and JavaScript.Familiarity with JavaScript frameworks such as  React.js, and Vue.js.",
+        "Develop Front-end web applications using VueJS and quasar framework. Integrate frontend with Firebase services such as firestore, authentication, real time database, storage and more",
         skills: [
           "HTML5",
           "CSS3",
